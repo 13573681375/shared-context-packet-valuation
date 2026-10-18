@@ -48,7 +48,9 @@ This is a shared-context conditional packet-valuation study, not a demonstrated 
 
 ## Licensing
 
-Data and original-code licences are awaiting explicit rights-holder selection. No licence has been added by the assistant.
+Original research data and data documentation are licensed under **CC BY 4.0**; original MATLAB/Python code and software-related scripts are licensed under **MIT**, as authorized by the rights holder on 2026-10-18. These are separate scopes, not a choice of licence for the same file. See [LICENSE](LICENSE), [LICENSING.md](LICENSING.md), and [LICENSES](LICENSES). Third-party materials and external dependencies retain their own terms.
+
+A matching licensed data archive is being prepared; the old checksum identifies the earlier pre-licensing container, not the forthcoming licensed asset.
 
 ## Release maintenance
 

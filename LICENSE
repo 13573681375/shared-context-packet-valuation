@@ -1,0 +1,16 @@
+This project uses separate licences for different materials, not a choice
+between two licences for the same material.
+
+Original research data, author-created data tables and plots, metadata and
+accompanying data documentation: Creative Commons Attribution 4.0 International
+(SPDX: CC-BY-4.0). See LICENSES/CC-BY-4.0.txt.
+
+Original MATLAB/Python source code and original software-related scripts:
+MIT License (SPDX: MIT). See LICENSES/MIT.txt.
+
+See LICENSING.md for scope, attribution and third-party exclusions. Within the
+reproduction asset, LICENSE_MANIFEST.csv identifies the applicable licence for
+each delivered file. Existing third-party notices and licences take precedence
+for third-party material. MATLAB, Optimization Toolbox and other external
+dependencies are not relicensed by this notice.
+
