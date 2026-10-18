@@ -6,13 +6,13 @@ Companion to **Shared-Context Receding-Horizon Packet Valuation for Connected Ve
 
 ## Download status
 
-The research-data archive has been prepared and checked locally, but has **not yet been uploaded or independently downloaded from this repository**. A public repository or a checksum file alone is not public access to the research data.
+The licensed research-data archive has been prepared and checked locally. **Publication of that data asset and an independent public download have not yet been verified**. A public repository or a checksum file alone is not public access to the research data.
 
 The intended versioned data asset is:
 
-- File: `TRC_reproduction_compact_v1.zip`
-- Size: **1,775,635,983 bytes** (approximately 1.78 GB / 1.65 GiB)
-- SHA-256: `9dfcda9bac90f37cfa651ecdba9c1134d15aff96fb94bcf1a6b45f6c9c82e280`
+- File: `TRC_reproduction_compact_v1_licensed.zip`
+- Size: **1,775,658,657 bytes** (approximately 1.78 GB / 1.65 GiB)
+- SHA-256: `f7334f84ba955a0035151b58b6aec0198e2e46713682d06df3d244a1c8ed783e`
 
 When the release is published, download that specific asset from **Releases**. GitHub's automatically generated **Source code (zip)** is not the research-data archive.
 
@@ -50,7 +50,7 @@ This is a shared-context conditional packet-valuation study, not a demonstrated 
 
 Original research data and data documentation are licensed under **CC BY 4.0**; original MATLAB/Python code and software-related scripts are licensed under **MIT**, as authorized by the rights holder on 2026-10-18. These are separate scopes, not a choice of licence for the same file. See [LICENSE](LICENSE), [LICENSING.md](LICENSING.md), and [LICENSES](LICENSES). Third-party materials and external dependencies retain their own terms.
 
-A matching licensed data archive is being prepared; the old checksum identifies the earlier pre-licensing container, not the forthcoming licensed asset.
+The matching licensed archive is `TRC_reproduction_compact_v1_licensed.zip`; use its matching `.sha256` file. The earlier `TRC_reproduction_compact_v1.zip.sha256` is retained as historical provenance and must not be used to validate the licensed archive. Licensing changed documentation and notices only: all 1,893 MAT files and 2,425 original data/program files remain byte-identical.
 
 ## Release maintenance
 
